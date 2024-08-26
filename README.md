@@ -1,5 +1,7 @@
 vercel deployment failure
 
+this should be built locally 
+
 ---
 
 <h1 align="center">YOLOv8 LIVE</h1>
