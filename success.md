@@ -1,11 +1,5 @@
----
-```
 
-# error
-pip install packaging
-python3 -m main
 
-```
 ---
 ```
 
