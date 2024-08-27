@@ -1,6 +1,7 @@
-vercel deployment failure
 
-this should be built locally 
+vercel deployment impossible
+
+# revised main.py local run success 2024-08-27
 
 ---
 
